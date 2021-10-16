@@ -27,5 +27,6 @@ Seller
 2) sell()- it dequeues an element from the inventory and adds it to the catalog if the catalog is not full. Otherwise it waits.
 
 Assignment2Driver
+
 All elements from the arraylist "list" were added to the inventory.
 numBuyer and numSeller number of threads of buyers and sellers respectively were created and started.
