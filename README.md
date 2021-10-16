@@ -20,10 +20,10 @@ PriorityQueue
 
 Buyer
 1) Constructor- sets the value of sleepTime,lock,empty,full,catalog and iteration
-2)buy()- removes the elements with the least priority from the priority queue(catalog) if it is not empty. Otherwise it waits.
+2) buy()- removes the elements with the least priority from the priority queue(catalog) if it is not empty. Otherwise it waits.
 
 Seller
-1)Constructor- sets the value of sleeptime,lock,full,empty,catalog and inventory
+1) Constructor- sets the value of sleeptime,lock,full,empty,catalog and inventory
 2) sell()- it dequeues an element from the inventory and adds it to the catalog if the catalog is not full. Otherwise it waits.
 
 Assignment2Driver
